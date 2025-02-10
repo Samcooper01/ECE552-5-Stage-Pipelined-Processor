@@ -1,0 +1,8 @@
+# Store at same offset, shouldn't evict, choose different set
+1 0 8192 64
+1 0 4096 42
+0 1 8192 64
+# Pick a set to evict, should be a miss (pseudorandom) then an eviction
+0 1 16384 42
+# Should be a hit after eviction
+0 1 16384 42

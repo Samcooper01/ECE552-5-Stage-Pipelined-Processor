@@ -1,0 +1,15 @@
+# Write to every word at first index, first should be miss, then all three hit
+1 0 0 0
+1 0 2 0
+1 0 4 0
+1 0 6 0
+# Write to every word, but different tag, first should be miss, then all three hit again (second cache)
+1 0 8192 0
+1 0 8194 0
+1 0 8196 0
+1 0 8198 0
+# Evicting once (1 miss then 3 hits)
+1 0 4096 1
+1 0 4098 1
+1 0 4100 1
+1 0 4102 1

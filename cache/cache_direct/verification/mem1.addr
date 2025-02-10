@@ -1,0 +1,7 @@
+# Simple test to look at waveforms
+# Store miss at address 8000, then load hit
+# Store miss at address 6000, then load hit
+1 0 8000 42
+0 1 8000 42
+1 0 6000 24
+0 1 6000 24

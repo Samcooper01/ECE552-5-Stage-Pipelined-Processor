@@ -1,0 +1,13 @@
+# Simple test to ensure writebacks are working
+# Uses stores at different offsets and tries to load back
+1 0 0000 0
+1 0 0002 1 
+1 0 0004 2
+1 0 0006 4
+1 0 2000 5 # writeback happens here
+1 0 2002 6
+1 0 2004 7
+1 0 2006 8 
+0 1 0000 0
+0 1 0002 0
+0 1 0004 0

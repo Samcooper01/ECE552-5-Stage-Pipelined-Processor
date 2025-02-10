@@ -1,0 +1,10 @@
+          // Custom test 1 - tests basic pipeline functionality with no hazards and manual NOP insertion
+          
+0000 c101 lbi r1, 0x1
+0002 c202 lbi r2, 0x2
+0004 c303 lbi r3, 0x3
+0006 0800 nop
+0008 4181 addi r4, r1, 0x1
+000a 42a2 addi r5, r2, 0x2
+000c 43c3 addi r6, r3, 0x3
+000e 0000 halt

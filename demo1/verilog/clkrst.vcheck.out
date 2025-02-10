@@ -1,0 +1,10 @@
+Line 19: Bad keyword integer
+Line 21: Bad keyword initial
+Line 22: begin without always/case
+Line 29: Expected '@' after 'always'
+Line 31: Bad keyword if
+Line 29: Always without case(x)
+Line 36: Bad keyword posedge
+Line 44: Bad keyword if
+Line 36: Always without case(x)
+End of file /home/scooper/ECE552/ece-552-project/demo1/verilog/clkrst.v. Hash = -853339862

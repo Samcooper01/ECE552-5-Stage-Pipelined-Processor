@@ -1,0 +1,8 @@
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_1_ctrl.asm SUCCESS CPI:2.5 CYCLES:1931 ICOUNT:788 IHITRATE: 0 DHITRATE: 0
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_2_ctrl.asm SUCCESS CPI:2.3 CYCLES:2142 ICOUNT:948 IHITRATE: 0 DHITRATE: 0
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_3_ctrl.asm SUCCESS CPI:2.4 CYCLES:2235 ICOUNT:946 IHITRATE: 0 DHITRATE: 0
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_4_ctrl.asm SUCCESS CPI:2.6 CYCLES:1654 ICOUNT:631 IHITRATE: 0 DHITRATE: 0
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_5_ctrl.asm SUCCESS CPI:2.3 CYCLES:2151 ICOUNT:916 IHITRATE: 0 DHITRATE: 0
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_6_ctrl.asm SUCCESS CPI:2.3 CYCLES:2102 ICOUNT:896 IHITRATE: 0 DHITRATE: 0
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_7_ctrl.asm SUCCESS CPI:2.3 CYCLES:2227 ICOUNT:972 IHITRATE: 0 DHITRATE: 0
+/afs/cs.wisc.edu/u/s/w/swamit/public/html/courses/cs552/fall2024/handouts/testprograms/public/rand_ctrl/t_8_ctrl.asm SUCCESS CPI:2.6 CYCLES:1717 ICOUNT:669 IHITRATE: 0 DHITRATE: 0

@@ -1,0 +1,11 @@
+# Simple test to ensure cold misses are handled correctly
+0 1 0 0
+0 1 8 0
+0 1 16 0
+0 1 48 0
+0 1 256 0
+0 1 512 0
+0 1 1026 0
+0 1 8192 0 # this should not be an eviction
+0 1 8194 0 # this should not be an eviction
+1 0 32768 0 # miss, evicting what was there previous

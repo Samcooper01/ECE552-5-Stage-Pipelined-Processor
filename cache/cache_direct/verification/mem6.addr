@@ -1,0 +1,6 @@
+# Simple test to look at waveforms
+# Store at same offset, shouldn't evict, choose different set (Two hits at the end)
+1 0 8192 64
+1 0 4096 42
+0 1 8192 64
+0 1 4096 42
