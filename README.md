@@ -11,6 +11,8 @@ As part of a team of three, we designed and implemented a **5-stage pipelined pr
   - **Data Forwarding**: Introduced forwarding paths to minimize stalls due to data dependencies from RAW hazards.  
   - **Data Caches**: Integrated instruction and data caches, first in direct, and then two-way set associative.
 
+### Final Schematic: 
+![picture of schematic]()
 #### 🛠️ Technologies & Tools:  
 - **Hardware Description Language**: SystemVerilog & Verilog.
 - **Simulation & Debugging**: ModelSim & Quartus.  
