@@ -12,7 +12,7 @@ As part of a team of three, we designed and implemented a **5-stage pipelined pr
   - **Data Caches**: Integrated instruction and data caches, first in direct, and then two-way set associative.
 
 ### Final Schematic: 
-![picture of schematic]()
+![picture of schematic](https://github.com/fuzzy41316/ECE552-5-Stage-Pipelined-Processor/blob/main/Schematic.png)
 #### 🛠️ Technologies & Tools:  
 - **Hardware Description Language**: SystemVerilog & Verilog.
 - **Simulation & Debugging**: ModelSim & Quartus.  
