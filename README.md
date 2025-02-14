@@ -9,7 +9,7 @@ As part of a team of three, we designed and implemented a **5-stage pipelined pr
 - **Performance Optimizations** (extra paths for extra credit):  
   - **Branch Prediction**: Implemented a branch predictor to reduce control hazards and improve instruction throughput.  
   - **Data Forwarding**: Introduced forwarding paths to minimize stalls due to data dependencies from RAW hazards.  
-  - **Data Caches**: Integrated instruction and data caches, first in direct, and then two-way set associative.
+  - **Caches**: Integrated instruction and data caches, first in direct, and then two-way set associative.
 
 ### Final Schematic: 
 ![picture of schematic](https://github.com/fuzzy41316/ECE552-5-Stage-Pipelined-Processor/blob/main/Schematic.png)
