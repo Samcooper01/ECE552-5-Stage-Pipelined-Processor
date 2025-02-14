@@ -1,6 +1,6 @@
 ### 🔭 Semester-Long Project: 5-Stage Pipelined Processor  
 
-As part of a team of three, we designed and implemented a **5-stage pipelined processor** with advanced architectural features, including **branch prediction, data forwarding, and data caches**. The project was developed in incremental stages over the semester, allowing us to build a strong foundation before integrating performance optimizations.  
+As part of a team of three, we designed and implemented a **5-stage pipelined processor** with advanced architectural features, including **branch prediction, data forwarding, and instruction & data caches**. The project was developed in incremental stages over the semester, allowing us to build a strong foundation before integrating performance optimizations.  
 
 #### 🏗️ Development Process:  
 - **Initial Design**: We began by creating a **schematic based on an ISA**, defining the instruction formats, registers, and control signals.  
