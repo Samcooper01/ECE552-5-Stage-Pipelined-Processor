@@ -2,6 +2,8 @@
 
 As part of a team of three, we designed and implemented a **5-stage pipelined processor** with advanced architectural features, including **branch prediction, data forwarding, and instruction & data caches**. The project was developed in incremental stages over the semester, allowing us to build a strong foundation before integrating performance optimizations.  
 
+[Fall_24_552_Project_ISA.pdf](Fall_24_552_Project_ISA.pdf)
+
 #### 🏗️ Development Process:  
 - **Initial Design**: We began by creating a **schematic based on an ISA**, defining the instruction formats, registers, and control signals.  
 - **Single-Cycle Processor**: We implemented a baseline **single-cycle design** to ensure correct execution of instructions.  
@@ -18,4 +20,9 @@ As part of a team of three, we designed and implemented a **5-stage pipelined pr
 - **Simulation & Debugging**: ModelSim 
 - **Collaboration**: [Harrison Doll](https://github.com/fuzzy41316/fuzzy41316), [Keeton Kowalski](https://github.com/keetongh), & [Samuel Cooper](https://github.com/Samcooper01)
 
-This project provided hands-on experience with **processor design, performance optimization, and hardware simulation**, deepening our understanding of computer architecture.  
+### WISC-F24 ISA
+
+![isa_p1.png](isa_p1.png)
+![isa_p2.png](isa_p2.png)
+
+
