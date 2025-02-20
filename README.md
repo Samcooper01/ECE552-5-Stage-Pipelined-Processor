@@ -14,8 +14,8 @@ As part of a team of three, we designed and implemented a **5-stage pipelined pr
 ### Final Schematic: 
 ![picture of schematic](https://github.com/fuzzy41316/ECE552-5-Stage-Pipelined-Processor/blob/main/Schematic.png)
 #### 🛠️ Technologies & Tools:  
-- **Hardware Description Language**: SystemVerilog & Verilog.
-- **Simulation & Debugging**: ModelSim & Quartus.  
+- **Hardware Description Language**: Verilog.
+- **Simulation & Debugging**: ModelSim 
 - **Collaboration**: [Harrison Doll](https://github.com/fuzzy41316/fuzzy41316), [Keeton Kowalski](https://github.com/keetongh), & [Samuel Cooper](https://github.com/Samcooper01)
 
 This project provided hands-on experience with **processor design, performance optimization, and hardware simulation**, deepening our understanding of computer architecture.  
